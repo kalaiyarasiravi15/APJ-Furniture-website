@@ -44,18 +44,8 @@ Browse through the product cards, category sections, and newsletter
 
 # Note: This template is not optimized for mobile or tablet screen sizes. Desktop view is recommended for best experience.
 
-## Folder Structure Suggestion
-/apj-furniture/
-│
-├── index.html
-├── style.css
-├── /images/
-│   ├── home_pic.jpg
-│   ├── bed_room.png
-│   ├── first.png
-│   └── ...
-
 ## Author
 
 Kalaiyarasi Ravi
+
 
